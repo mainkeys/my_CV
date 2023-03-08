@@ -1,0 +1,78 @@
+.container {
+    font: "宋体";
+    /* background-color: antiquewhite; */
+    width: 21cm;
+    height: 29.7cm;
+    letter-spacing: 1px;
+}
+
+.header {
+    width: 21cm;
+    height: 3cm;
+    /* background-color: azure; */
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-content: center;
+
+}
+
+.name {
+    font: 22px/1.5 Tahoma, Helvetica, Arial, '宋体', sans-serif;
+    font-weight: bolder;
+}
+
+.name-info {
+    font: 10px/1.5 Tahoma, Helvetica, Arial, '宋体', sans-serif;
+
+}
+
+.contact>span {
+    display: block;
+    font-family: "Times New Roman", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+    font-size: 10px;
+    font-weight: 200;
+    margin-bottom: 3px;
+
+}
+
+
+.body .title {
+    font-size: 13px;
+    font-weight: 1000;
+    display: block;
+    margin-top: 20px;
+}
+
+.body-info {
+    display: block;
+    font-size: 12px;
+    margin: 6px;
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.dot {
+
+    display: inline-block;
+    background-color: lightslategray;
+    border-radius: 50%;
+    width: 4px;
+    height: 4px;
+    position: relative;
+    bottom: 2px;
+    margin-right: 3px;
+}
+
+.body-info {
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 19px;
+}
+
+.time {
+    float: right;
+}
