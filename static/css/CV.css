@@ -3,12 +3,12 @@
     /* background-color: antiquewhite; */
     width: 21cm;
     height: 29.7cm;
-    letter-spacing: 1px;
+    letter-spacing: 1.3px;
 }
 
 .header {
     width: 21cm;
-    height: 3cm;
+    height: 2cm;
     /* background-color: azure; */
     display: flex;
     flex: 1;
